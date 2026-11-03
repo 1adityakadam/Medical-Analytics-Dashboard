@@ -1,5 +1,7 @@
 # Medical Analytics Dashboard
 
+<img width="2760" height="1536" alt="Dashboard" src="https://github.com/user-attachments/assets/22c607b4-0a7a-4a8b-9e74-bc0bafe9d894" />
+
 ## Project Description
 
 Hospital managers often need to check several separate systems to answer simple questions about patients, beds, medicine stock and billing. This project brings that information together in a single Power BI dashboard.
